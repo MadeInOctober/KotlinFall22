@@ -1,0 +1,5 @@
+fun main() {
+    println("Welcome To Anteiku Cafe!")
+    println("We Hope You Enjoy Your Stay!")
+    println("Would you like some coffee?")
+}
